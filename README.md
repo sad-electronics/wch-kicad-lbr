@@ -1,3 +1,5 @@
+![WCH Library Logo](/resources/logo.png)
+
 # WCH Kicad Library
 
 This is not a official library and thus not all parts are included. You are welcome to open a PR to add support for new Parts.

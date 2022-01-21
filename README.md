@@ -6,3 +6,5 @@ The library tries to follow the Kicad Library Convention as close as possible, t
 
 You can read the the Library Convention here: <https://klc.kicad.org/>
 
+The Library is created using the latest Stable Version which is currently Version 6, this makes the Library not compatible with the older versions of Kicad. 
+

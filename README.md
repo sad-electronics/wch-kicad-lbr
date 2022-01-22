@@ -15,6 +15,8 @@ The Library is created using the latest Stable Version which is currently Versio
 
 | **Part** | **In Library** | **Tested in Production** |
 |:--------:|:--------------:|:------------------------:|
+| CH549G   |    :heavy_check_mark:      |          :x:          |
+| CH9102F   |    :heavy_check_mark:      |          :x:          |
 | CH340B   |                |                          |
 | CH340C   |                |                          |
 | CH340E   |                |                          |
@@ -41,4 +43,4 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH552G   |                |                          |
 | CH552E   |                |                          |
 | CH554G   |                |                          |
-| CH549G   |    :heavy_check_mark:      |          :x:          |
+

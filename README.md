@@ -17,6 +17,7 @@ The Library is created using the latest Stable Version which is currently Versio
 |:--------:|:--------------:|:------------------------:|
 | CH549G   |    :heavy_check_mark:      |          :x:          |
 | CH9102F   |    :heavy_check_mark:      |          :x:          |
+| CH9102X  | :heavy_check_mark:  |           :x:             |
 | CH340B   |                |                          |
 | CH340C   |                |                          |
 | CH340E   |                |                          |
@@ -32,7 +33,6 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH334L   |                |                          |
 | CH335F   |                |                          |
 | CH334Q   |                |                          |
-| CH9102X  |                |                          |
 | CH343G   |                |                          |
 | CH343K   |                |                          |
 | CH343P   |                |                          |

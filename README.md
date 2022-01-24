@@ -23,7 +23,6 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH340B   |                |                          |
 | CH340C   |                |                          |
 | CH340K   |                |                          |
-| CH340N   |                |                          |
 | CH340T   |                |                          |
 | CH340G   |                |                          |
 | CH334G   |                |                          |

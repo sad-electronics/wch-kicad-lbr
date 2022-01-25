@@ -20,6 +20,7 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH9102X  | :heavy_check_mark:  |           :x:             |
 | CH340N  | :heavy_check_mark:  |           :x:             |
 | CH340E  | :heavy_check_mark:  |           :x:             |
+| CH330N  | :heavy_check_mark:  |           :x:             |
 | CH340B   |                |                          |
 | CH340C   |                |                          |
 | CH340K   |                |                          |

@@ -44,4 +44,4 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH552G   |                |                          |
 | CH552E   |                |                          |
 | CH554G   |                |                          |
-|CH32V307  |                |                          |
+|CH32V307  | :heavy_check_mark: |           :x:            |

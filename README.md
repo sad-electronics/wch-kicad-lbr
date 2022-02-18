@@ -22,6 +22,7 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH340E  | :heavy_check_mark:  |           :x:             |
 | CH330N  | :heavy_check_mark:  |           :x:             |
 | CH340B   | :heavy_check_mark: |           :x:            |
+|CH32V307  | :heavy_check_mark: |           :x:            |
 | CH340C   |                |                          |
 | CH340K   |                |                          |
 | CH340T   |                |                          |
@@ -44,4 +45,3 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH552G   |                |                          |
 | CH552E   |                |                          |
 | CH554G   |                |                          |
-|CH32V307  |                |                          |

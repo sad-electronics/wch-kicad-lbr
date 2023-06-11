@@ -42,7 +42,10 @@ The Library is created using the latest Stable Version which is currently Versio
 | CH342F   |                |                          |
 | CH342K   |                |                          |
 | CH342J   |                |                          |
+| CH344Q   | :heavy_check_mark: |           :x:            |
 | CH551G   |                |                          |
-| CH552G   |                |                          |
+| CH552G   | :heavy_check_mark: |           :x:            |
 | CH552E   |                |                          |
 | CH554G   |                |                          |
+| CH554T   | :heavy_check_mark: |           :x:            |
+| CH559L   | :heavy_check_mark: |           :x:            |
